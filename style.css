@@ -1,0 +1,21 @@
+body{
+	background-color: #d35400;
+}
+h1{
+	font-size: 30px;
+	font-family: sans-serif;
+}
+h6{
+	color: blue;
+}
+p{
+	font-size: 20px;
+	font-family: sans-serif;
+}
+img{
+	width: 200px;
+	position: center;
+}
+li{
+	font-family: sans-serif;
+}
